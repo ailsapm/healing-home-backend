@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  description: MyText
+  ingredients: MyText
+  instructions: MyText
+  image_url: MyString
+  author_id: 1
+  is_remedy: false
+
+two:
+  title: MyString
+  description: MyText
+  ingredients: MyText
+  instructions: MyText
+  image_url: MyString
+  author_id: 1
+  is_remedy: false

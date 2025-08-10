@@ -1,0 +1,35 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  common_name: MyString
+  scientific_name: MyString
+  family: MyString
+  description: MyText
+  growing_harvesting: MyText
+  photo_url: MyString
+  parts_used: MyText
+  physiological_actions: MyText
+  energetics: MyText
+  ways_to_use: MyText
+  uses: MyText
+  cautions: MyText
+  history: MyText
+  magical: MyText
+  is_sample: false
+
+two:
+  common_name: MyString
+  scientific_name: MyString
+  family: MyString
+  description: MyText
+  growing_harvesting: MyText
+  photo_url: MyString
+  parts_used: MyText
+  physiological_actions: MyText
+  energetics: MyText
+  ways_to_use: MyText
+  uses: MyText
+  cautions: MyText
+  history: MyText
+  magical: MyText
+  is_sample: false
